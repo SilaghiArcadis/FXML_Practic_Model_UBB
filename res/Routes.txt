@@ -1,0 +1,8 @@
+Alba,Cluj,2,4,50,25,1
+Alba,Sibiu,4,6,50,20,2
+Cluj,Sibiu,8,12,50,35,3
+Bucuresti,Alba,8,14,100,60,4
+Oradea,Alba,1,4,100,40,5
+Zalau,Alba,0,2,100,40,6
+Timis,Alba,0,3,100,40,7
+Timis,Cluj,12,15,25,1000,8
